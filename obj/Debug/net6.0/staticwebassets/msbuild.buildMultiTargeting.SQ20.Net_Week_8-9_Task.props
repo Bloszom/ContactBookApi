@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SQ20.Net_Week_8-9_Task.props" />
+</Project>
